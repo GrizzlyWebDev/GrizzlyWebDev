@@ -12,7 +12,6 @@
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.5-6DB33F?logo=springboot&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-13-336791?logo=postgresql&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-2.0-06B6D4?logo=tailwindcss&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-1.56-000000?logo=rust&logoColor=white)
 
 ## 💡 About Me
 
@@ -27,7 +26,8 @@
 - Email: [phillblakedev@gmail.com](mailto:phillblakedev@gmail.com)
 
 ## 📜 Cerifications
-- [Cook Systems Fast Track program](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/141060558)
+![cook systems fast track program badge](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/141060558)
+- [Cook Systems Fast Track program](https://www.credential.net/e89ee5bb-2b00-4e99-9271-6fb961674ab5#acc.AODFfzhE)
 
 
 ---
